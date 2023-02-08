@@ -1,0 +1,8 @@
+__pycache__/*
+.idea
+checkpoints/*
+data/*
+logs/*
+results/*
+ResultsAndCode/*
+ResultsAndCode.zip
